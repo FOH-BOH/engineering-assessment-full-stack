@@ -1,0 +1,902 @@
+[
+{
+  "model": "candidates.candidate",
+  "pk": 1,
+  "fields": {
+    "name": "Erin Johnson",
+    "city": "nashville",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 2,
+  "fields": {
+    "name": "Jason Harvey",
+    "city": "murfreesboro",
+    "positions": "manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 3,
+  "fields": {
+    "name": "Oscar Jones",
+    "city": "nashville",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 4,
+  "fields": {
+    "name": "Emily Lewis",
+    "city": "mtjuliet",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 5,
+  "fields": {
+    "name": "Erika Chaney",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 6,
+  "fields": {
+    "name": "Bryan Brown",
+    "city": "murfreesboro",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 7,
+  "fields": {
+    "name": "Tracey Miller",
+    "city": "nashville",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 8,
+  "fields": {
+    "name": "Thomas Shepard",
+    "city": "nashville",
+    "positions": "server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 9,
+  "fields": {
+    "name": "Crystal Woodard",
+    "city": "murfreesboro",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 10,
+  "fields": {
+    "name": "Candace Arnold",
+    "city": "nashville",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 11,
+  "fields": {
+    "name": "Kyle Thomas",
+    "city": "mtjuliet",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 12,
+  "fields": {
+    "name": "William Black",
+    "city": "murfreesboro",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 13,
+  "fields": {
+    "name": "Steven Holmes",
+    "city": "nashville",
+    "positions": "manager|server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 14,
+  "fields": {
+    "name": "Julia Wilson",
+    "city": "nashville",
+    "positions": "manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 15,
+  "fields": {
+    "name": "Donna Campos",
+    "city": "mtjuliet",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 16,
+  "fields": {
+    "name": "Richard Porter",
+    "city": "murfreesboro",
+    "positions": "manager|server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 17,
+  "fields": {
+    "name": "Christopher Young",
+    "city": "mtjuliet",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 18,
+  "fields": {
+    "name": "James Robinson",
+    "city": "murfreesboro",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 19,
+  "fields": {
+    "name": "James Perez",
+    "city": "mtjuliet",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 20,
+  "fields": {
+    "name": "Thomas Hammond",
+    "city": "murfreesboro",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 21,
+  "fields": {
+    "name": "Billy Hanson",
+    "city": "nashville",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 22,
+  "fields": {
+    "name": "Troy Lara",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 23,
+  "fields": {
+    "name": "Kevin Schaefer",
+    "city": "mtjuliet",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 24,
+  "fields": {
+    "name": "Kristen Stanley",
+    "city": "nashville",
+    "positions": "server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 25,
+  "fields": {
+    "name": "Jared Payne",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 26,
+  "fields": {
+    "name": "Margaret Terry",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 27,
+  "fields": {
+    "name": "Jesse King",
+    "city": "mtjuliet",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 28,
+  "fields": {
+    "name": "Steven Owens",
+    "city": "nashville",
+    "positions": "server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 29,
+  "fields": {
+    "name": "Joy Knapp",
+    "city": "mtjuliet",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 30,
+  "fields": {
+    "name": "Linda Alvarado",
+    "city": "mtjuliet",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 31,
+  "fields": {
+    "name": "Phillip Meyer",
+    "city": "mtjuliet",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 32,
+  "fields": {
+    "name": "Nicole Tate",
+    "city": "mtjuliet",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 33,
+  "fields": {
+    "name": "Tyler Johnson",
+    "city": "nashville",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 34,
+  "fields": {
+    "name": "Cindy Johnson",
+    "city": "nashville",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 35,
+  "fields": {
+    "name": "Adam Lucas",
+    "city": "mtjuliet",
+    "positions": "server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 36,
+  "fields": {
+    "name": "Casey Madden",
+    "city": "mtjuliet",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 37,
+  "fields": {
+    "name": "Jacob Wyatt",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 38,
+  "fields": {
+    "name": "Jack Fisher",
+    "city": "murfreesboro",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 39,
+  "fields": {
+    "name": "Jose Porter",
+    "city": "murfreesboro",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 40,
+  "fields": {
+    "name": "Matthew Gibson",
+    "city": "nashville",
+    "positions": "server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 41,
+  "fields": {
+    "name": "Ivan Sullivan",
+    "city": "murfreesboro",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 42,
+  "fields": {
+    "name": "Kimberly Vasquez",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 43,
+  "fields": {
+    "name": "Patricia Francis",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 44,
+  "fields": {
+    "name": "John Olson",
+    "city": "mtjuliet",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 45,
+  "fields": {
+    "name": "Chris Montes",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 46,
+  "fields": {
+    "name": "Matthew White",
+    "city": "mtjuliet",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 47,
+  "fields": {
+    "name": "Michael Peterson",
+    "city": "nashville",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 48,
+  "fields": {
+    "name": "Michael Holt",
+    "city": "murfreesboro",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 49,
+  "fields": {
+    "name": "Brianna Hester",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 50,
+  "fields": {
+    "name": "Derrick Acevedo",
+    "city": "nashville",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 51,
+  "fields": {
+    "name": "Julia Tran",
+    "city": "mtjuliet",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 52,
+  "fields": {
+    "name": "Vincent Perry",
+    "city": "nashville",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 53,
+  "fields": {
+    "name": "Kelsey Brown",
+    "city": "murfreesboro",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 54,
+  "fields": {
+    "name": "Frank Wright",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 55,
+  "fields": {
+    "name": "Sarah Fletcher",
+    "city": "nashville",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 56,
+  "fields": {
+    "name": "Danielle Fields",
+    "city": "mtjuliet",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 57,
+  "fields": {
+    "name": "Penny Summers",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 58,
+  "fields": {
+    "name": "Joseph Burch",
+    "city": "mtjuliet",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 59,
+  "fields": {
+    "name": "Thomas Pope",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 60,
+  "fields": {
+    "name": "Faith Cardenas",
+    "city": "nashville",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 61,
+  "fields": {
+    "name": "Nancy Lynch",
+    "city": "murfreesboro",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 62,
+  "fields": {
+    "name": "Laura Boyd",
+    "city": "mtjuliet",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 63,
+  "fields": {
+    "name": "Rebecca Glover",
+    "city": "mtjuliet",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 64,
+  "fields": {
+    "name": "Joshua Mitchell",
+    "city": "murfreesboro",
+    "positions": "manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 65,
+  "fields": {
+    "name": "Kevin Hughes",
+    "city": "murfreesboro",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 66,
+  "fields": {
+    "name": "Chad Morgan",
+    "city": "nashville",
+    "positions": "manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 67,
+  "fields": {
+    "name": "Deborah Keller",
+    "city": "nashville",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 68,
+  "fields": {
+    "name": "Jacob Tran",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 69,
+  "fields": {
+    "name": "Audrey Mack",
+    "city": "murfreesboro",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 70,
+  "fields": {
+    "name": "Wayne Wilson",
+    "city": "murfreesboro",
+    "positions": "manager|server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 71,
+  "fields": {
+    "name": "Debra Campbell",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 72,
+  "fields": {
+    "name": "Amy Perry",
+    "city": "mtjuliet",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 73,
+  "fields": {
+    "name": "Angela Matthews",
+    "city": "mtjuliet",
+    "positions": "bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 74,
+  "fields": {
+    "name": "Carrie Carlson",
+    "city": "mtjuliet",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 75,
+  "fields": {
+    "name": "James Smith",
+    "city": "nashville",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 76,
+  "fields": {
+    "name": "Ryan Patrick",
+    "city": "nashville",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 77,
+  "fields": {
+    "name": "Carl Freeman",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 78,
+  "fields": {
+    "name": "Alison Wilson",
+    "city": "murfreesboro",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 79,
+  "fields": {
+    "name": "Christian Nguyen",
+    "city": "murfreesboro",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 80,
+  "fields": {
+    "name": "Laura Holmes",
+    "city": "mtjuliet",
+    "positions": "server"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 81,
+  "fields": {
+    "name": "Theresa Taylor",
+    "city": "nashville",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 82,
+  "fields": {
+    "name": "Mia Taylor",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 83,
+  "fields": {
+    "name": "Travis Taylor",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 84,
+  "fields": {
+    "name": "Samantha Gates",
+    "city": "mtjuliet",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 85,
+  "fields": {
+    "name": "Gwendolyn Williams",
+    "city": "murfreesboro",
+    "positions": "manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 86,
+  "fields": {
+    "name": "George Matthews",
+    "city": "mtjuliet",
+    "positions": "manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 87,
+  "fields": {
+    "name": "Brian Russell",
+    "city": "mtjuliet",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 88,
+  "fields": {
+    "name": "Randy Rich",
+    "city": "mtjuliet",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 89,
+  "fields": {
+    "name": "Debbie Vaughn",
+    "city": "nashville",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 90,
+  "fields": {
+    "name": "Raymond Salazar",
+    "city": "murfreesboro",
+    "positions": "server|bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 91,
+  "fields": {
+    "name": "Stacy Warner",
+    "city": "mtjuliet",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 92,
+  "fields": {
+    "name": "Diane Mclean",
+    "city": "nashville",
+    "positions": "server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 93,
+  "fields": {
+    "name": "Amber Elliott",
+    "city": "mtjuliet",
+    "positions": "manager|server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 94,
+  "fields": {
+    "name": "Glenn Ross",
+    "city": "nashville",
+    "positions": "manager|server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 95,
+  "fields": {
+    "name": "Carrie Ware",
+    "city": "murfreesboro",
+    "positions": "server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 96,
+  "fields": {
+    "name": "Felicia Thompson",
+    "city": "murfreesboro",
+    "positions": "manager|server|bartender"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 97,
+  "fields": {
+    "name": "Dana Armstrong",
+    "city": "murfreesboro",
+    "positions": "bartender|server|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 98,
+  "fields": {
+    "name": "Matthew Smith",
+    "city": "mtjuliet",
+    "positions": "manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 99,
+  "fields": {
+    "name": "Andrew Woods",
+    "city": "mtjuliet",
+    "positions": "bartender|manager"
+  }
+},
+{
+  "model": "candidates.candidate",
+  "pk": 100,
+  "fields": {
+    "name": "Justin Leonard",
+    "city": "murfreesboro",
+    "positions": "server|manager"
+  }
+}
+]

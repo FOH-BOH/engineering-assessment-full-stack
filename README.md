@@ -6,8 +6,8 @@ in the application process for an open position with us.
 ## Assessment Details
 Pick from one of the following take-home assessments. During the assessment code review, we’ll talk about why you chose that particular project and go through your work and approach. 
 
- * [Option 1: Match Candidates with Positions](option1/README.md)
- * [Option 2: Build an Interview Schedule](option2/README.md)
+ * [Option 1: Match Candidates with Positions](option1/)
+ * [Option 2: Build an Interview Schedule](option2/)
 
 We’ll also ask you about how you might have approached the other project option during the interview process, but you are not required to actually complete the work. We’re looking for a frame of reference on how you might start the thought process on a project, as it’s also something you’ll come up against during your day-to-day in our stack.
 

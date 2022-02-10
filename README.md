@@ -18,13 +18,13 @@ Please do not spend more than 2-4 hours on this work, and make sure to record ho
  * Code style & readability
  * Some level of test coverage
 
-### Tools you should use:
+We are language-agnostic for interviews. Pick what you're most comfortable with!  That being said, we use the following tools at foh&boh, so expect to get up to speed quickly with our stack:
+
  * React
  * Django
- * GraphQL
-   * Graphene is our go-to but you can choose another framework (and teach us a bit about why)
-   * Apollo
+ * GraphQL (Graphene & Apollo)
 
+Experience with dynamic languages is a critical skill we are looking to see demonstrated.
 
 ### What we'll be asking about:
  * Your general approach to the problem

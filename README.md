@@ -1,10 +1,9 @@
 # foh&boh Engineering Assessment
 
-Thanks for your interest in engineering at foh&boh! You're probably here as a next step
-in the application process for an open position with us. 
+Thanks for your interest in engineering at foh&boh! You're probably here as a next step in the application process for an open position with us. 
 
 ## Assessment Details
-Pick from one of the following take-home assessments. During the assessment code review, we’ll talk about why you chose that particular project and go through your work and approach. 
+Pick from one of the following take-home assessments. During the assessment code review, we’ll talk about why you chose that particular project and go through your work and approach. (BTW - make sure during the assessment you have your project set up locally to screenshare)
 
  * [Option 1: Match Candidates with Positions](option1/)
  * [Option 2: Build an Interview Schedule](option2/)

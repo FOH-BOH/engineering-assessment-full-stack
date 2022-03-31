@@ -11,7 +11,7 @@ Pick from one of the following take-home assessments. During the assessment code
 
 We’ll also ask you about how you might have approached the other project option during the interview process, but you are not required to actually complete the work. We’re looking for a frame of reference on how you might start the thought process on a project, as it’s also something you’ll come up against during your day-to-day in our stack.
 
-Please do not spend more than 2-4 hours on this work, and make sure to record how much time you spent in total for frame of reference. Also, please document how to run your application via a README.md.
+Please do not spend more than 2-4 hours on this work, and make sure to record how much time you spent in total for frame of reference. Also, please document how to run your application via a README.md. Upload your finished work to a private GitHub repo.
 
 ### What we'll be looking for:
  * End-to-end functionality
